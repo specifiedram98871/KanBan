@@ -25,4 +25,7 @@ Kanban Final is a web-based Kanban board application built with React, Vite, and
    npm run dev
 
 
+Create and drag your progress
+
+
 [checkout]:https://kan-ban-9dbz.vercel.app/
